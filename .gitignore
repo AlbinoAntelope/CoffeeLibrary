@@ -2,9 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
-./build/*
-./dist/*
-./nbproject/*
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
 
 # Folder config file
 Desktop.ini

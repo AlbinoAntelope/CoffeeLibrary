@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+./build/*
+./dist/*
+./nbproject/*
+
 # Folder config file
 Desktop.ini
 
